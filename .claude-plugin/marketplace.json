@@ -1,0 +1,38 @@
+{
+  "name": "prospector-plugin",
+  "owner": {
+    "name": "ryandias68152-cloud"
+  },
+  "plugins": [
+    {
+      "name": "prospector-prospeccao",
+      "source": "./plugins/prospector-prospeccao",
+      "description": "Prospecta clientes no Google Maps buscando negócios bem avaliados com site fraco."
+    },
+    {
+      "name": "prospector-redesign",
+      "source": "./plugins/prospector-redesign",
+      "description": "Redesenha o site de um cliente prospectado em versão premium de alta conversão."
+    },
+    {
+      "name": "prospector-publicacao",
+      "source": "./plugins/prospector-publicacao",
+      "description": "Publica os sites redesenhados dos clientes e gera o link público."
+    },
+    {
+      "name": "prospector-proposta",
+      "source": "./plugins/prospector-proposta",
+      "description": "Escreve e envia proposta comercial por e-mail para leads, com follow-up automático."
+    },
+    {
+      "name": "prospector-crm",
+      "source": "./plugins/prospector-crm",
+      "description": "CRM local do prospector: dashboard kanban, funil, clientes, contratos e financeiro em SQLite."
+    },
+    {
+      "name": "prospector-contrato",
+      "source": "./plugins/prospector-contrato",
+      "description": "Gera contrato de prestação de serviço (folha A4 + Word travado) quando um cliente fecha negócio."
+    }
+  ]
+}

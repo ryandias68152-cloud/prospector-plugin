@@ -1,0 +1,5 @@
+{
+  "name": "prospector-crm",
+  "description": "CRM local do prospector: dashboard kanban, funil, clientes, contratos e financeiro em SQLite.",
+  "version": "1.0.0"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "prospector-contrato",
+  "description": "Gera contrato de prestação de serviço (folha A4 + Word travado) quando um cliente fecha negócio.",
+  "version": "1.0.0"
+}
